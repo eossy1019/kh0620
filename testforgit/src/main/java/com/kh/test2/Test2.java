@@ -5,9 +5,6 @@ public class Test2 {
 
 		System.out.println("테스트2 ");
 
-		System.out.println("테스트2");
-		
-		System.out.println("테스트3");
 
 	}
 
