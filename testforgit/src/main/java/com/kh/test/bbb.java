@@ -2,7 +2,7 @@ package com.kh.test;
 
 public class bbb {
 	public static void main(String[] args) {
-		System.out.println("bbb");
+		System.out.println("bbba");
 	}
 
 }
